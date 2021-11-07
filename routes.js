@@ -1,7 +1,7 @@
-import HelloWorld from "./src/components/HelloWorld";
-import Bilgihan from "./src/components/Bilgihan";
+import Home from "./src/components/Home";
+import User from "@/components/User";
 
 export const routes = [
-    { path:"/", component: HelloWorld },
-    { path:"/bilgihan", component: Bilgihan }
+    { path:"/", component: Home, name: "home"},
+    { path:"/user/:id", component: User, name: "user" }
 ]
