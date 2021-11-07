@@ -21,6 +21,11 @@ export default {
       // this.$router.push({path: "/"})
       this.$router.push({ name: "home"})
     }
+  },
+  watch: {
+    "$route"(to){
+      this.id = to.params.id
+    }
   }
 }
 </script>
