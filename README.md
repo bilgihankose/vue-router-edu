@@ -1,10 +1,8 @@
 ## Notlar
 
-- Bu uygulama ile Vue.js routing konusunda genel olarak bilgi vermeyi amaclamaktadir.
+- Bu uygulama ile Vue.js routing konusunda genel olarak bilgi vermeyi amaclamaktadir, `vue create vue-routing-edu` ile yapilmistir, routing islemleri icin `vue-router` kullanilmistir.
 - Herhangi bir CSS kodu kullanilmamistir.
 - Vuejs2 ile yapilmistir.
-- Bu uygulama `vue create vue-routing-edu` ile yapilmistir.
-- Bu uygulamada routing islemleri icin `vue-router` kullanilmistir.
 - Bu repository'de yapilan islemlerle ilgili hizlica goz atmak icin bir READ.ME dosyasinin en asagisindaki linkleri ve yazilari inceleyebilirsiniz.
 - Tasarim ve routing konusu ile ilgili ek ozellikler icin guncellenecektir.
 
