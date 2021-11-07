@@ -1,5 +1,5 @@
 <template>
-
+  <p>User Detail</p>
 </template>
 
 <script>
@@ -7,7 +7,3 @@ export default {
   name: "UserDetail"
 }
 </script>
-
-<style scoped>
-
-</style>

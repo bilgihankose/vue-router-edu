@@ -1,7 +1,6 @@
 <template>
   <div>
-    <p>User</p>
-    <p>Yolladigin ID: {{ id }}</p>
+    <router-view></router-view>
     <button @click="navigateToHome()">Go to Home</button>
   </div>
 

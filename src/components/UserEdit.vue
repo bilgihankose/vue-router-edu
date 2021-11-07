@@ -1,5 +1,5 @@
 <template>
-
+  <p>User Edit</p>
 </template>
 
 <script>
