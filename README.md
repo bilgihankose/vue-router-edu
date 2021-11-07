@@ -584,11 +584,11 @@ We can use the "*" symbol to catch all matching paths. However, there are ways t
 
 ## 🔗 Links
 
-[Vue.js Routing Islemleri](https://medium.com/@bilgihankose/vue-js-routing-islemleri-5d08aa7c283c)
+[Vue.js Routing Islemleri - Medium](https://medium.com/@bilgihankose/vue-js-routing-islemleri-5d08aa7c283c)
 
-[https://github.com/bilgihankose/vue-router-edu](https://github.com/bilgihankose/vue-router-edu)
+[Github Repository](https://github.com/bilgihankose/vue-router-edu)
 
-[](https://www.udemy.com/course/sifirdan-ileri-seviye-vuejs-2-vuex-vue-router-egitim-seti/learn/lecture/11466364#questions)
+[Udemy Course](https://www.udemy.com/course/sifirdan-ileri-seviye-vuejs-2-vuex-vue-router-egitim-seti/learn/lecture/11466364#questions)
 
 [Make a Single Page Application (SPA) with Vue.js and Sanity | Sanity.io guide](https://www.sanity.io/guides/create-a-single-page-application-with-vuejs-and-sanity)
 
