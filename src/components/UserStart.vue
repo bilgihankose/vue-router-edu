@@ -1,11 +1,9 @@
 <template>
 <ul>
-  <li>User 1</li>
-  <li>User 2</li>
-  <li>User 3</li>
-  <li>User 4</li>
-  <li>User 5</li>
-  <li>User 6</li>
+  <router-link to="/user/1" tag="li" exact><a>User 1</a></router-link>
+  <router-link to="/user/2" tag="li" exact><a>User 2</a></router-link>
+  <router-link to="/user/3" tag="li" exact><a>User 3</a></router-link>
+  <router-link to="/user/4" tag="li" exact><a>User 4</a></router-link>
 </ul>
 </template>
 

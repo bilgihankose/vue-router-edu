@@ -1,5 +1,8 @@
 <template>
-  <p>User Detail</p>
+  <div>
+    <p>User Detail</p>
+  <router-link tag="button" :to="{name: 'userEdit', params: {id: $route.params.id} }">Edit User</router-link>
+  </div>
 </template>
 
 <script>

@@ -8,9 +8,10 @@ export const routes = [
     {path: "/", component: Home, name: "home"},
     {
         path: "/user", component: User, name: "user", children: [
-            {path: "/", component: UserStart},
-            {path: "/:id", component: UserDetail},
-            {path: "/:id/edit", component: UserEdit},
+            {path: "", component: UserStart},
+            {path: ":id", component: UserDetail},
+            {path: ":id/edit", component: UserEdit, name: "userEdit"},
         ]
-    }
+    },
+    { path: "*", redirect: "/"}
 ]
