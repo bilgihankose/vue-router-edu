@@ -1,8 +1,7 @@
 ## Notlar
 
-- Bu uygulama ile Vue.js routing konusunda genel olarak bilgi vermeyi amaclamaktadir, `vue create vue-routing-edu` ile yapilmistir, routing islemleri icin `vue-router` kullanilmistir.
+- Bu uygulama ile Vue.js routing konusunda genel olarak bilgi vermeyi amaclamaktadir, `vue create` ile yapilmistir, routing islemleri icin `vue-router` kullanilmistir.
 - Herhangi bir CSS kodu kullanilmamistir.
-- Vuejs2 ile yapilmistir.
 - Bu repository'de yapilan islemlerle ilgili hizlica goz atmak icin bir READ.ME dosyasinin en asagisindaki linkleri ve yazilari inceleyebilirsiniz.
 - Tasarim ve routing konusu ile ilgili ek ozellikler icin guncellenecektir.
 
@@ -32,7 +31,8 @@ npm run lint
 
 # Vue.js Routing Islemleri
 
-SPA'nin olayi routing islemi olarak dusunebilirsin. SPA temel olarak bir sayfa uzerinden kullanici navigasyonlariyla farkli farkli sayfalarin ayni sayfa icerisinde gosterilme islemi diyebiliriz.
+
+SPA'nin olayi routing islemi olarak dusunebilirsiniz. SPA temel olarak bir sayfa uzerinden kullanici navigasyonlariyla farkli farkli sayfalarin ayni sayfa icerisinde gosterilme islemi diyebiliriz.
 
 Bu islem icin `vue-router` kullanacagiz. Ilk olarak bu plugin'in projemize yuklenmesi gerekiyor. Ornek bir proje uzerinden bunu yapmak istedigim icin Vuejs folderi icerisinde `vue-router-edu` isimli bir proje olusturdum ve `WebStorm` ile bu projeyi actim. `Vuejs2` olarak projemi kurdum.
 
